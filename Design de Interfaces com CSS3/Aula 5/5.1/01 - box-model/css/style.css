@@ -1,0 +1,27 @@
+/* Arquivo de CSS para Estilização */
+
+*, *:before, *:after {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+.com-margem {
+  margin: 10px 5px 20px 15px; /* Margem superior é de 10px, a da direita é de 5px, a de baixo é de 20px e a da esquerda é de 15px. */
+  background: pink;
+}
+
+.com-padding {
+  padding: 10px 5px 15px 20px; /* Os valores, em ordem, correspondem ao top, right, bottom e left. */
+  background: pink;
+}
+
+.com-borda {
+  margin: 10px 10px 10px 10px;
+  border: 1px solid #000;
+}
+
+.com-borda-superior {
+  margin: 10px 10px 10px 10px;
+  border-top: 1px solid #000;
+}

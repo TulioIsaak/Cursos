@@ -1,0 +1,25 @@
+/* Arquivo de CSS para Estilização */
+
+*, *:before, *:after {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+.item-block {
+  display: block;
+  margin-bottom: 50px;
+}
+
+.item-inline {
+  display: inline;
+  margin: 10px 10px 10px 10px;
+  background: pink;
+}
+
+.item-inline-block {
+  display: inline-block;
+  width: 200px;
+  margin: 10px 10px 10px 10px;
+  background: pink;
+}

@@ -1,0 +1,10 @@
+/* Arquivo de CSS para Estilização */
+
+.sidebar {
+  width: 27%;
+  min-width: 200px;
+  height: 500px;
+  background: #FF0000;
+  color: #FFF;
+  font-size: 30px;
+}

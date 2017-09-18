@@ -1,0 +1,19 @@
+// 1360 GRID
+
+//MEDIDAS
+Largura total: 1360px
+Número de colunas: 12
+Largura de colunas: 70px
+Espaçamento entre colunas: 40px
+Altura da entrelinha: 24px
+
+//DICAS DE FERRAMENTAS:
+Plugin auxiliar para Photoshop: guideguide.me
+Importar para o GuideGuide: https://gist.github.com/anonymous/462e85a8fb829121b9dc
+Sistema de Grid em CSS: jeet.gs
+
+//DESENVOLVIDO POR:
+Dani Guerrato e Leandro Lima
+contato@popupdesign.com.br
+
+

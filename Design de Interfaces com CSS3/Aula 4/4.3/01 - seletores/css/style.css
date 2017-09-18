@@ -1,0 +1,13 @@
+/* Arquivo de CSS para Estilização */
+
+h1 {
+  color: #FF0000;
+}
+
+#sou-uma-id {
+  color: #00FFFF;
+}
+
+.sou-uma-classe {
+  color: #00FF89;
+}

@@ -1,0 +1,14 @@
+/* Arquivo de CSS para Estilização */
+
+*, *:before, *:after {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+p:last-child {
+  background: #ff0000;
+  color: #fff;
+}

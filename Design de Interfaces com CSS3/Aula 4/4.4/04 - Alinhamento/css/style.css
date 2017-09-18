@@ -1,0 +1,17 @@
+/* Arquivo de CSS para Estilização */
+
+.texto-esquerda {
+  text-align: left;
+}
+
+.texto-direita {
+  text-align: right;
+}
+
+.texto-justificado {
+  text-align: justify;
+}
+
+.texto-centralizado {
+  text-align: center;
+}

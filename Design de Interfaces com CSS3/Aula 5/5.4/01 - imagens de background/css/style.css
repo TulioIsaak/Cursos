@@ -1,0 +1,13 @@
+/* Arquivo de CSS para Estilização */
+
+*, *:before, *:after {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+.imagem-background {
+  background: url("../img/background.jpg") 100px 100px no-repeat;;
+  width: 1000px;
+  height: 1000px;
+}

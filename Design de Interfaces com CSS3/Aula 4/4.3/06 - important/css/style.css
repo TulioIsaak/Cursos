@@ -1,0 +1,9 @@
+/* Arquivo de CSS para Estilização */
+
+.eu-sou-important {
+  color: blue !important;
+}
+
+p {
+  color: red;
+}

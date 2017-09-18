@@ -1,0 +1,23 @@
+/* Arquivo de CSS para Estilização */
+
+*, *:before, *:after {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.transform {
+  position: absolute;
+  top: 200px;
+  left: 200px;
+  background: blue;
+  width: 300px;
+  height: 300px;
+  color: #FFF;
+}
+
+.transform:hover {
+  transform: scale(2,2) rotate(90deg) translate(10px,20px);
+}

@@ -1,0 +1,36 @@
+/* Arquivo de CSS para Estilização */
+
+*, *:before, *:after {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.wrap {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.header {
+  background: blue;
+  height: 200px;
+  width: 100%;
+}
+
+.sidebar {
+  float: left;
+  width: 31.25%; /* 300 / 960 */
+  height: 500px;
+  background: #000;
+  color: #FFF;
+}
+
+.main {
+  float: right;
+  width: 68.75%; /* 660 / 960 */
+  height: 500px;
+  background: #F0F0F0;
+  color: #000;
+}

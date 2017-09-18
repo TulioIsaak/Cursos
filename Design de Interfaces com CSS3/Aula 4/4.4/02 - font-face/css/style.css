@@ -1,0 +1,18 @@
+/* Arquivo de CSS para Estilização */
+
+@font-face {
+    font-family: '2dumbregular';
+    src: url('../font/2Dumb-webfont.eot');
+    src: url('../font/2Dumb-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/2Dumb-webfont.woff') format('woff'),
+         url('../font/2Dumb-webfont.ttf') format('truetype'),
+         url('../font/2Dumb-webfont.svg#3dumbregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+p {
+  font-family: "2dumbregular", Helvetica, Arial, Verdana;
+  font-size: 20px;
+}

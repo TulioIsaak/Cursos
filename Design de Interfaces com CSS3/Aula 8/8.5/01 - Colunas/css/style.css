@@ -1,0 +1,23 @@
+/* Arquivo de CSS para Estilização */
+
+*, *:before, *:after {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.colunas {
+  -webkit-column-count: 3;
+  -moz-column-count: 3;
+  column-count: 3;
+
+  -webkit-column-gap: 40px;
+  -moz-column-gap: 40px;
+  column-gap: 40px;
+
+  -webkit-column-rule: 1px solid lightblue;
+  -moz-column-rule: 1px solid lightblue;
+  column-rule: 1px solid lightblue;
+}
